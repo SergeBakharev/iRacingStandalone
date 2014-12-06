@@ -3,7 +3,7 @@ iRacingStandalone
 
 A modified version of Firefox Portable for playing iRacing.
 
-I wanted a small client, that I could use instead of very memory hungry normal browser. Since this is a dedicated client it also provides something to associate with Steam,
+I wanted a small client, that I could use instead of my very memory hungry normal browser. Since this is a dedicated client it also provides something to associate with Steam.
 
 Here are the following modifications made:
 - Branding/Icons of Firefox have been changed to look like the iRacing logo
