@@ -1,0 +1,7 @@
+locale rebranding en-US chrome/locale/
+override chrome://branding/locale/brand.dtd chrome://rebranding/locale/brand.dtd
+override chrome://browser/locale/syncBrand.dtd chrome://rebranding/locale/syncBrand.dtd
+override chrome://branding/locale/brand.properties chrome://rebranding/locale/brand.properties
+override chrome://global/locale/appstrings.properties chrome://rebranding/locale/appstrings.properties
+override chrome://branding/content/icon.png chrome://rebranding/content/icon.png
+content rebranding chrome/content/

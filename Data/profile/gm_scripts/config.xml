@@ -1,0 +1,22 @@
+<UserScriptConfig>
+	<Script basedir="iRacing_Better_Lapcharts" checkRemoteUpdates="1" dependhash="da39a3ee5e6b4b0d3255bfef95601890afd80709" description="This script add's better interactive lapcharts to race result pages" enabled="true" noframes="false" filename="iracing-better-lapcharts.user.js" installTime="1417831769096" modified="1417831769096" name="iRacing Better Lapcharts" namespace="http://www.paulilbrink.nl/userscripts" runAt="document-end" updateMetaStatus="unknown" uuid="adced525-0e92-491f-8342-bb86356bc75c" version="0.1" installurl="http://www.paulilbrink.nl/userscripts/iracing-better-lapcharts.user.js" updateurl="http://www.paulilbrink.nl/userscripts/iracing-better-lapcharts.user.js">
+		<Grant>none</Grant>
+		<Match>http://mmmembers.iracing.com/membersite/member/EventResult.do*</Match>
+		<Match>http://offline.paulilbrink.nl/iracing/lapchart/</Match>
+	</Script>
+	<Script basedir="iRacing_Online_Friends" checkRemoteUpdates="1" dependhash="da39a3ee5e6b4b0d3255bfef95601890afd80709" description="Highlight your Friends and Watched Drivers on the Dashboard and Series Session pages, so you know where they are driving." enabled="true" noframes="false" filename="iRacing_Online_Friends.user.js" installTime="1417831831465" modified="1417831835382" name="iRacing Online Friends" namespace="http://www.kodey.com/" runAt="document-end" updateMetaStatus="unknown" uuid="9236ef4b-dd1d-4bea-a9b6-b091bfdac995" version="1.15" installurl="file:///C:/Users/BaconHunter/Downloads/FirefoxPortable/Data/profile/gm_scripts/iRacing_Online_Friends/iRacing_Online_Friends.user.js" updateurl="file:///C:/Users/BaconHunter/Downloads/FirefoxPortable/Data/profile/gm_scripts/iRacing_Online_Friends/iRacing_Online_Friends.user.js">
+		<Grant>GM_xmlhttpRequest</Grant>
+		<Include>http://members.iracing.com/membersite/member/*</Include>
+	</Script>
+	<Script basedir="iRacing_road_only" checkRemoteUpdates="1" dependhash="da39a3ee5e6b4b0d3255bfef95601890afd80709" description="Userscript for iRacing that hides content unrelated to road racing.  This is opinionated, so YMMV." enabled="true" noframes="false" filename="iRacing_road_only.user.js" installTime="1417831850071" modified="1417831851829" name="iRacing road only" namespace="drinkto.me" runAt="document-end" updateMetaStatus="unknown" uuid="e0401e2e-399c-4111-a79f-2fed733a285e" version="5" installurl="file:///C:/Users/BaconHunter/Downloads/FirefoxPortable/Data/profile/gm_scripts/iRacing_road_only/iRacing_road_only.user.js" updateurl="file:///C:/Users/BaconHunter/Downloads/FirefoxPortable/Data/profile/gm_scripts/iRacing_road_only/iRacing_road_only.user.js">
+		<Grant>none</Grant>
+		<Include>http://members.iracing.com/jforum/forums/list.page</Include>
+		<Include>http://members.iracing.com/membersite/member/*</Include>
+	</Script>
+	<Script basedir="iRacing_Auto_Join" checkRemoteUpdates="1" dependhash="da39a3ee5e6b4b0d3255bfef95601890afd80709" description="This script add's an auto join checkbox after registering for a session. Once the timer ends and the green Join, Watch or Spot button comes available it's automatically clicked" enabled="true" noframes="false" filename="iracing-auto-join.user.js" installTime="1417834540106" modified="1417834540106" name="iRacing Auto Join" namespace="http://www.paulilbrink.nl/userscripts" runAt="document-end" updateMetaStatus="unknown" uuid="fe8ae801-8ac0-401b-8c93-ed9a19152f45" version="1.14.3" installurl="http://www.paulilbrink.nl/userscripts/iracing-auto-join.user.js" updateurl="http://www.paulilbrink.nl/userscripts/iracing-auto-join.meta.js">
+		<Exclude>http://members.iracing.com/membersite/member/EventResult*</Exclude>
+		<Exclude>http://members.iracing.com/membersite/member/JoinedRace.do</Exclude>
+		<Grant>none</Grant>
+		<Match>http://members.iracing.com/membersite/member/*</Match>
+	</Script>
+</UserScriptConfig>

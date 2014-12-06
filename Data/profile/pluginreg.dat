@@ -1,0 +1,95 @@
+Generated File. Do not edit.
+
+[HEADER]
+Version|0.17|$
+Arch|x86-msvc|$
+
+[PLUGINS]
+NPSWF32_15_0_0_239.dll|$
+C:\Windows\SysWOW64\Macromed\Flash\NPSWF32_15_0_0_239.dll|$
+15.0.0.239|$
+1416993006556|0|0|0|$
+Shockwave Flash 15.0 r0|$
+Shockwave Flash|$
+2
+0|application/x-shockwave-flash|Adobe Flash movie|swf|$
+1|application/futuresplash|FutureSplash movie|spl|$
+npGoogleUpdate3.dll|$
+C:\Program Files (x86)\Google\Update\1.3.25.11\npGoogleUpdate3.dll|$
+1.3.25.11|$
+1416018353103|0|0|0|$
+Google Update|$
+Google Update|$
+2
+0|application/x-vnd.google.update3webcontrol.3|||$
+1|application/x-vnd.google.oneclickctrl.9|||$
+nplastpass.dll|$
+C:\Program Files (x86)\LastPass\nplastpass.dll|$
+2.5.5.0|$
+1398829835983|0|0|0|$
+LastPass Plugin|$
+NPLastPass|$
+1
+0|application/x-vnd-lastpass|nplastpass||$
+npnv3dv.dll|$
+C:\Program Files (x86)\NVIDIA Corporation\3D Vision\npnv3dv.dll|$
+7.17.13.3750|$
+1395870027239|0|0|0|$
+NVIDIA 3D Vision plugin for Mozilla browsers|$
+NVIDIA 3D Vision|$
+3
+0|image/jps|JPEG-based stereo image|jps|$
+1|image/pns|PNG-based stereo image|pns|$
+2|image/mpo|Multi-Picture Format image|mpo|$
+npnv3dvstreaming.dll|$
+C:\Program Files (x86)\NVIDIA Corporation\3D Vision\npnv3dvstreaming.dll|$
+7.17.13.3750|$
+1395870025399|0|0|0|$
+NVIDIA 3D Vision Streaming plugin for Mozilla browsers|$
+NVIDIA 3D VISION|$
+1
+0|application/mozilla-3dv-streaming-plugin|npnv3dvstreaming|rts|$
+npWatWeb.dll|$
+C:\Windows\system32\Wat\npWatWeb.dll|$
+7.1.7600.16395|$
+1392556128934|0|0|0|$
+Windows Activation Technologies Plugin for Mozilla|$
+Windows Activation Technologies|$
+1
+0|application/mozilla-wat-scriptable-plugin-11|Windows Activation Technologies|*|$
+npgeplugin.dll|$
+C:\Program Files (x86)\Google\Google Earth\plugin\npgeplugin.dll|$
+7.1.2.2041|$
+1381174441923|0|0|0|$
+GEPlugin|$
+Google Earth Plugin|$
+1
+0|application/geplugin|GEPlugin||$
+npqlping.dll|$
+C:\Users\BaconHunter\AppData\Local\qlPing\0.0.1.0\npqlping.dll|$
+0.0.1.0|$
+1371308838000|0|0|0|$
+quakelive.com udp ping utility|$
+qlping|$
+1
+0|application/x-qlping|qlping||$
+NPSPWRAP.DLL|$
+C:\PROGRA~2\MICROS~1\Office14\NPSPWRAP.DLL|$
+14.0.4761.1000|$
+1269422558000|0|0|0|$
+The plug-in allows you to open and edit files using Microsoft Office applications|$
+Microsoft Office 2010|$
+1
+0|application/x-sharepoint|SharePoint Plug-in for Firefox||$
+NPAUTHZ.DLL|$
+C:\PROGRA~2\MICROS~1\Office14\NPAUTHZ.DLL|$
+14.0.4730.1010|$
+1263033738000|0|0|0|$
+Office Authorization plug-in for NPAPI browsers|$
+Microsoft Office 2010|$
+1
+0|application/x-msoffice14|14.0.4730.1010|*|$
+
+[INVALID]
+C:\Program Files (x86)\LastPass\nplastpass64.dll|$
+1398829835983|$
