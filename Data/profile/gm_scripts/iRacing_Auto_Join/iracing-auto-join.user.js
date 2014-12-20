@@ -1,4 +1,4 @@
-﻿// ==UserScript==
+// ==UserScript==
 // @name			iRacing Auto Join
 // @version			1.14.3
 // @author			Paul Ilbrink
@@ -27,7 +27,7 @@ function PI_iRacingAutoJoin() {
 	var PI_AJ_checkbox;
 	var PI_AJ_clicked = false;
 	var PI_AJ_clicked_session_id = -1;
-	var PI_AJ_remember_between_sessions = false; // change to 'true' if you want the checkbox status to be remembered
+	var PI_AJ_remember_between_sessions = true; // change to 'true' if you want the checkbox status to be remembered
 
 	function PI_log(msg, forceLog) {
 		forceLog = forceLog || false;
