@@ -1,4 +1,5 @@
 remove "xul.dll"
+remove "wow_helper.exe"
 remove "webapprt/webapprt.ini"
 remove "webapprt/omni.ja"
 remove "webapprt-stub.exe"
