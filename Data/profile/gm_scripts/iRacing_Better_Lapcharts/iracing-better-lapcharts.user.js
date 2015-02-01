@@ -1,4 +1,4 @@
-﻿// ==UserScript==
+// ==UserScript==
 // @name			iRacing Better Lapcharts
 // @version			0.1
 // @copyright		2013, Paul Ilbrink
@@ -6,6 +6,7 @@
 // @description		This script add's better interactive lapcharts to race result pages
 // @match			http://mmmembers.iracing.com/membersite/member/EventResult.do*
 // @match			http://offline.paulilbrink.nl/iracing/lapchart/
+// @grant       none
 // ==/UserScript==
 
 var load,execute,loadAndExecute,executeJQuery;
